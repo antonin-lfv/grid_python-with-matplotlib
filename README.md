@@ -1,4 +1,4 @@
-# grid_python
+# grid_python/ quadrillage
 How to make a grid with matplotlib / comment construire un quadrillage avec matplotlib
 
 ##### With this code you will be able to make a grid, whith any size and format.
