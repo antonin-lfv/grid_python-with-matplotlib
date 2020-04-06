@@ -1,5 +1,7 @@
 """creation of a grid """
 
+import matplotlib.pyplot as plt
+
 def grid(xmin,xmax,ymin,ymax):
     #window
     plt.clf()
