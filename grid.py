@@ -1,6 +1,6 @@
-"""creation of a squaring """
+"""creation of a grid """
 
-def carte_topo2(xmin,xmax,ymin,ymax):
+def grid(xmin,xmax,ymin,ymax):
     #window
     plt.clf()
     plt.xlim(xmin,xmax)
