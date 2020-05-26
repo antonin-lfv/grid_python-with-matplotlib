@@ -11,7 +11,7 @@ def grid(xmin,xmax,ymin,ymax):
     #params
     m = min(xmin,ymin)
     M = max(xmax,ymax)
-    #add plt.style.context('dark_background') for dark mode plotting
+    #add : plt.style.context('dark_background') for dark mode plotting
     y = np.array([M,m])
     x = np.array([m,M])
     for i in range (m,M+1):
