@@ -1,4 +1,4 @@
-"""creation of a grid """
+"""creation of a sgrid """
 
 def grid(xmin,xmax,ymin,ymax):
     #window
